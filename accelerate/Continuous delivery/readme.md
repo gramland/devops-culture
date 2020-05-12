@@ -1,4 +1,4 @@
-# Continuous delivery
+# Continuous delivery capabilities
 
 Continuous delivery (CD) is a set of capabilities that enable us to get changes of all kind -features, configuration changes, bug fixes, experiments- into production or into the hands of users safely, quickly, sustainably.
 
