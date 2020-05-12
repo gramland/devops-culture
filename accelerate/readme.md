@@ -14,7 +14,7 @@ The State of DevOps Report identify 24 key capabilities divided into 5 groups th
 * Continuos delivery
 
 
-## [Architecture] (https://github.com/gramland/devops-culture/tree/master/accelerate/Architecture)
+## [Architecture](https://github.com/gramland/devops-culture/tree/master/accelerate/Architecture)
 * Loosely coupled architecture
 * Empowered teams
 
