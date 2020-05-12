@@ -3,7 +3,7 @@ Notes - 17 Sept. 2018, One Microsoft Place, Dublin
 
 The State of DevOps Report identify 24 key capabilities divided into 5 groups that drive software delivery performance in a statistically significant way.
 
-## Continous delivery
+## [Continous delivery](https://github.com/gramland/devops-culture/blob/master/accelerate/Continuous%20delivery/readme.md)
 * Version control
 * Deployment automation
 * Continuos integration
