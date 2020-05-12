@@ -1,4 +1,4 @@
-# Architecture
+# Architecture capabilities
 
 Types of systems:
 * Greenfield
