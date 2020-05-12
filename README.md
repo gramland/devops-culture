@@ -1,4 +1,4 @@
-# devops-culture
+# DevOps Culture
 Notes and resources about Lean and DevOps 
 
 ## What is DevOps?
