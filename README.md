@@ -8,7 +8,7 @@ DevOps is the union of people, process, and products to enable continuous delive
 
 Essential DevOps practices include agile planning, continuous integration, continuous delivery, and monitoring of applications.
 
-![DevOps](/devops-cycle.png)
+![DevOps](/image/devops-cycle.png)
 
 [Microsoft Learning - DevOps](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops?view=azure-devops)
 
