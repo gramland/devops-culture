@@ -3,6 +3,8 @@ Notes and resources about Lean and DevOps
 
   * [State of DevOps Report](https://github.com/gramland/devops-culture/tree/master/accelerate)
   * [The Rugged Manifesto](https://ruggedsoftware.org/)
+  * [Microsoft Learning - DevOps](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops?view=azure-devops)
+
 
 ## What is DevOps?
 DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. The contraction of “Dev” and “Ops” refers to replacing siloed Development and Operations to create multidisciplinary teams that now work together with shared and efficient practices and tools. 
@@ -11,7 +13,6 @@ Essential DevOps practices include agile planning, continuous integration, conti
 
 ![DevOps](/image/devops-cycle.png)
 
-[Microsoft Learning - DevOps](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops?view=azure-devops)
 
 
 Arguably the DevOps movement is poorly named -ignoring functions such as testing, product management, information security.
