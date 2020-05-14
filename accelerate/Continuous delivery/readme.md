@@ -1,14 +1,14 @@
 # Continuous delivery capabilities
 
-Continuous delivery (CD) is a set of capabilities that enable us to get changes of all kind -features, configuration changes, bug fixes, experiments- into production or into the hands of users safely, quickly, sustainably.
+Continuous Delivery (CD) is a set of capabilities that enable us to get changes of all kind -features, configuration changes, bug fixes, experiments- into production or into the hands of users safely, quickly, sustainably.
 
-The 8 Continuous delivery (CD) capabilitibities are:
+The 8 Continuous delivery capabilitibities are:
 * Use version control for all production artifacts
 * Automate the deployment process
 * Implement continuous integration (CI)
 * Implement test automation
 * Shift left on security
-* Implement continuous delivery (CD)
+* Implement continuous delivery
 
 
 In order to implement CD the following 3 foundations must be created:
@@ -18,7 +18,7 @@ In order to implement CD the following 3 foundations must be created:
 * Continuous testing
 
 
-## The 5 principles of Continuous delivery (CD)
+## The 5 principles of continuous delivery
 
   * **Build quality in**
   
@@ -55,3 +55,20 @@ Continuous delivery helps team to achieve one of 12 principles of agile Manifest
   - Lower levels of deployment pain 
   - Reduce team burnout 
   
+## Shifting left on security 
+
+We found that when teams shift left on information security- that is, when they built it into the software delivery process instead of making it separate phase that happens downstream of development process- this positively impacts their ability to practice continuous delivery.
+This, in turn, positively impacts delivery performance. 
+
+What does shifting left entail?
+
+ 1. Security reviews are conducted for all major features and this review process is performing such a way that it doesn't slow down the development process. 
+ 2. Information security should be integrated into the entire software delivery lifecycle from development through operations. 
+ This means infosec experts should contribute to the process of designing application attend and provide feedback on demonstration of the software and ensure that the security features are tested as part of the automated test suite. 
+ 
+ Finally, we want to make it easy for developers to do the right thing when it comes to infosec. 
+ This can be achieved by ensuring that there are easy to consume pre-approved libraries, package store, chains and processes available for developers and IT operations. 
+ 
+See: 
+ * [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+ * [The Rugged Manifesto](https://ruggedsoftware.org/)
