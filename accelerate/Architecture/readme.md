@@ -1,6 +1,6 @@
 # Architecture capabilities
 
-Types of systems:
+Types of systems identified by DORA:
 * Greenfield
 * Systems of engagement
 * Systems of record
@@ -15,15 +15,21 @@ Types of systems:
 Low performer are more likely to be working on mainframe or custom software developed by another company.
 In all other cases there is no correlation with the performance.
 
+## Impactful architecture key capabilities
 The 2 architecture key capabilities are more impactful:
 
 * Use a loosely coupled architecture
 * Architect for empowered teams
 
-   If we achieve a loosely coupled well encapsulated architecture with an organizational structure to match, 2 important things happen:
+
+### Use a loosely coupled architecture
+
+If we achieve a loosely coupled well encapsulated architecture with an organizational structure to match, 2 important things happen:
    
    1. We can achieve better delivery performance increase in both Tempo and sustainability while reducing the burnout and the pain of deployment 
    2. We can substantially grow the size of our engineering organization and increase productivity linearly or better than linearly as we do so.
+
+### Architect for empowered teams
 
 What tools or technologies are used is irrelevant if the people that must use them hate using them, or if they don't achieve the outcomes and don't enable the generative culture behaviors.
 What is important is enabling teams to make changes to their products or services without depending on other teams or systems.
