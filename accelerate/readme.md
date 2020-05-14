@@ -3,6 +3,7 @@
 
 The State of DevOps Report identify 24 key capabilities divided into 5 groups that drive software delivery performance in a statistically significant way.
 
+
 ## [Continous delivery](https://github.com/gramland/devops-culture/blob/master/accelerate/Continuous%20delivery/readme.md)
 * Version control
 * Deployment automation
@@ -41,4 +42,10 @@ The State of DevOps Report identify 24 key capabilities divided into 5 groups th
 * Job satisfaction
 * Transformational leadership
 
+
+When compared to low performers the high performers have: 
+  - 46 times more frequent code of deployments 
+  - 440 times faster lead time from commit to deploy 
+  - 170 times faster mean time to recover from downtime 
+  - 5 times slower change failure rate (1/5 as likely for a change to fail)
 
