@@ -1,7 +1,7 @@
 # Architecture capabilities
 
 ## Impactful architecture key capabilities
-The 2 architecture key capabilities are more impactful:
+The 2 architecture key capabilities more impactful are:
 
 * Use a loosely coupled architecture
 * Architect for empowered teams
