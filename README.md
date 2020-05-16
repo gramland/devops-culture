@@ -11,7 +11,7 @@ DevOps is the union of people, process, and products to enable continuous delive
 
 Essential DevOps practices include agile planning, continuous integration, continuous delivery, and monitoring of applications.
 
-![DevOps](/image/devops-cycle.png)
+![DevOps](/images/devops-cycle.png)
 
 
 
