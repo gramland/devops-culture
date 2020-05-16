@@ -39,4 +39,7 @@ There are two mechanism which can be effectively used to satisfy both the latter
   2. Change should only be applied to production using a fully automated process that forms part of a deployment pipeline. 
 
 On the other way, the idea that an external body not intimately familiar with the internals of the system can review tens of thousands of lines of code change by potentially tens or hundreds of Engineers and accurately determine the impact on complex production system it is not realistic. 
-This idea is a form of risk management theater. Somenone check boxes so that when something goes wrong we can say that at least we follow the process. At best this process only introduced time delays and handoffs. 
+
+This idea is a form of risk management theater. Somenone check boxes so that when something goes wrong we can say that at least we follow the process. 
+
+At best this process only introduced time delays and handoffs. 
