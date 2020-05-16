@@ -9,7 +9,7 @@
   3. Whether organizations actively and regularly seek customer feedback and incorporate this feedback into the design of their products. 
   4. Whether development teams have the authority to create and change specifications as part of the development process without requiring approval. 
   
-## Theme experimentation
+## Team experimentation
 
 If a development team isn't allowed, without authorization from some outside body, to change requirements or specifications in response to what they discover, their ability to innovate is sharply inhibited. 
 
