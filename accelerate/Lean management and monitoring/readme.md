@@ -8,5 +8,5 @@ Lean management and monitoring capabilities are:
 * Visualize work to monitor quality and communicate troughout the team
 
 Deep dive:
-  * [Lean management](/Lean-management.md)
-  * [Lean product development](/Lean-product-development.md)
+  * [Lean management](https://github.com/gramland/devops-culture/edit/master/accelerate/Lean management and monitoring/Lean-management.md)
+  * [Lean product development](https://github.com/gramland/devops-culture/edit/master/accelerate/Lean management and monitoring/Lean-product-development.md)
