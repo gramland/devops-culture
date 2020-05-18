@@ -2,7 +2,7 @@
 
 Continuous Delivery (CD) is a set of capabilities that enable us to get changes of all kind -features, configuration changes, bug fixes, experiments- into production or into the hands of users safely, quickly, sustainably.
 
-The 8 Continuous delivery capabilitibities are:
+## The 8 Continuous delivery capabilitibities are:
 * Use version control for all production artifacts
 * Automate the deployment process
 * Implement continuous integration (CI)
@@ -11,7 +11,7 @@ The 8 Continuous delivery capabilitibities are:
 * Implement continuous delivery
 
 
-In order to implement CD the following 3 foundations must be created:
+## In order to implement CD the following 3 foundations must be created:
 
 * Comprehensive configuration management
 * Continuous integration (CI)
