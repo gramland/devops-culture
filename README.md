@@ -1,7 +1,8 @@
 # DevOps Culture
 Notes and resources about Lean and DevOps 
 
-  * [State of DevOps Report](https://github.com/gramland/devops-culture/tree/master/accelerate)
+  * [State of DevOps Report notes](https://github.com/gramland/devops-culture/tree/master/accelerate)
+  * [State of DevOps 2019](https://github.com/gramland/devops-culture/blob/master/accelerate/pdfs/state-of-devops-2019.pdf)
   * [The Rugged Manifesto](https://ruggedsoftware.org/)
   * [Microsoft Learning - DevOps](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops?view=azure-devops)
 
