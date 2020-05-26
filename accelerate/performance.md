@@ -29,14 +29,15 @@ How often does an organization deploy code to production or release it to end us
 
 ### SOFTWARE DEPLOYMENT
 
-###  3 Time to restore
+#### 4 Change fail rate
+
+For the primary application or service you work on, what percentage of changes to production or released to users result in degraded service (e.g., lead to service impairment or service outage) and subsequently require remediation (e.g., require a hotfix, rollback,
+fix forward, patch)
+
+####  3 Time to restore
 
 How long does it generally take to restore service when a service incident or a defect that impacts users occurs (e.g., unplanned outage or service impairment)
 
-### 4 Change fail rate
-
-For the primary application or service you work on, what percentage of changes to production or released to users result in degraded service (e.g., lead to service impairment or service outage) and subsequently require remediation (e.g., require a hotfix, rollback,
-fix forward, patch)?
 
 ## High performers vs low performes
 
