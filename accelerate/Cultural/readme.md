@@ -26,4 +26,5 @@ can be discussed and even debated by those who are aware of them.
   - The 3rd level of organizational culture is the most visible and can be observed in artifacts. These artifacts can include written mission statements or creeds, technology, formal procedures or even heros and rituals. 
 
 See [Westrum organizational culture](Westrum-organizational-culture.md)
+
 See [How to measure organizational culture](how-to-measure-organizational-culture.md)
