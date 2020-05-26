@@ -7,7 +7,7 @@ Continuous Delivery (CD) is a set of capabilities that enable us to get changes 
 * Automate the deployment process
 * Implement continuous integration (CI)
 * Implement test automation
-* Shift left on security
+* [Shift left on security](Shift-left-on-security.md)
 * Implement continuous delivery
 
 
@@ -54,5 +54,4 @@ Continuous delivery helps team to achieve one of 12 principles of agile Manifest
 
   - Lower levels of deployment pain 
   - Reduce team burnout 
-  
 
