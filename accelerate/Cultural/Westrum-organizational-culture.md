@@ -41,6 +41,8 @@ In his research, he developed the following typology of organizational cultures.
 
 Table 1: The Westrum organizational typology model: How organizations process information (Source: Ron Westrum, "A typology of organisation culture)," BMJ Quality & Safety 13, no. 2 (2004), doi:10.1136/qshc.2003.009522.)
 
+See [How to measure organizational culture](how-to-measure-organizational-culture.md)
+
 Similar to Dr. Westrum's findings, DORA research shows that a high-trust, generative culture predicts software delivery and organizational performance in technology.
 
 ## How to implement organizational culture
@@ -115,6 +117,6 @@ across the organization and up and down the hierarchy.
   - Better organizational culture can indicate higher quality decision making. 
   - Teams with this cultural norms are likely to do a better job with their people since problems are more rapidly discovered and addressed.
   
- The way to change culture is not first change how people think but instead to start by changing how people behave. 
+ __The way to change culture is not first change how people think but instead to start by changing how people behave.__
 
   
