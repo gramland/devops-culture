@@ -1,4 +1,4 @@
-# DevOps culture: Westrum organizational culture
+# Westrum organizational culture
 
 According to research by __DevOps Research and Assessment (DORA)__, organizational culture that is high-trust and emphasizes information flow is predictive of software delivery performance and organizational performance in technology. 
 
