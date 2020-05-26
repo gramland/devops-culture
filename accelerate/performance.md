@@ -18,22 +18,22 @@ to release along with __deployment frequency__. Stability is measured using __ti
 
 ### SOFTWARE DEVELOPMENT
 
-#### Lead time
+#### 1 Lead time
 
 Lead time is the time it takes to go from a customer making a request to the request being satisfied. 
 The elevation of lead time as a metric is a key element of the __Lean__ theory.
 
-#### Deployment frequency
+#### 2 Deployment frequency
 
 How often does an organization deploy code to production or release it to end users.
 
 ### SOFTWARE DEPLOYMENT
 
-### Time to restore
+###  3 Time to restore
 
 How long does it generally take to restore service when a service incident or a defect that impacts users occurs (e.g., unplanned outage or service impairment)
 
-### Change fail rate
+### 4 Change fail rate
 
 For the primary application or service you work on, what percentage of changes to production or released to users result in degraded service (e.g., lead to service impairment or service outage) and subsequently require remediation (e.g., require a hotfix, rollback,
 fix forward, patch)?
