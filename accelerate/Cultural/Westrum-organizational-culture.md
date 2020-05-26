@@ -2,7 +2,7 @@
 
 According to research by __DevOps Research and Assessment (DORA)__, organizational culture that is high-trust and emphasizes information flow is predictive of software delivery performance and organizational performance in technology. 
 
-The idea that a good culture that optimizes information flow is predictive of good outcomes is not a new idea; it is based on research by sociologist Dr. Ron Westrum. 
+The idea that a __good culture that optimizes information flow is predictive of good outcomes__ is not a new idea; it is based on research by sociologist Dr. Ron Westrum. 
 
 [Westrum's research](https://qualitysafety.bmj.com/content/13/suppl_2/ii22) included human factors in system safety, particularly in the context of accidents in technological domains such as aviation and healthcare.
 
@@ -43,7 +43,7 @@ Table 1: The Westrum organizational typology model: How organizations process in
 
 Similar to Dr. Westrum's findings, DORA research shows that a high-trust, generative culture predicts software delivery and organizational performance in technology.
 
-### How to implement organizational culture
+## How to implement organizational culture
 
 DORA research shows that changing the way people work changes culture; this is echoed in the work of John Shook, who spoke of his experiences in transforming culture: **"The way to change culture is not to first change how people think, but instead to start by changing how people behave—what they do."** 
 
@@ -96,7 +96,6 @@ Organizational cultures with high information flow often encounter the following
   - By focusing on the six aspects of Westrum's typology, teams and organizations can work thoughtfully and meaningfully toward improving their culture.
 
 
-
 ## Information processing
 
 In his work with these high risk, highly complex fields, Westrum noted that such a __culture influences the way information flows__ through an organization. Westrum provides __3 characteristics of good information__:
@@ -117,5 +116,5 @@ across the organization and up and down the hierarchy.
   - Teams with this cultural norms are likely to do a better job with their people since problems are more rapidly discovered and addressed.
   
  The way to change culture is not first change how people think but instead to start by changing how people behave. 
-  
+
   
