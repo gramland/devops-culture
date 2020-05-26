@@ -1,7 +1,7 @@
 # Cultural capabilities
 
 * [Support a generative culture as outlined by Westrum](Westrum-organizational-culture.md)
-* Encourage and support learning
+* [Encourage and support learning](Learning-culture.md)
 * Support and facilitate collaboration among teams
 * Provide resources and tools that make work meaningful
 * Support or embody transformational leadership
