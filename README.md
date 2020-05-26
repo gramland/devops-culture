@@ -15,7 +15,6 @@ Essential DevOps practices include agile planning, continuous integration, conti
 ![DevOps](/images/devops-cycle.png)
 
 
-
 Arguably the DevOps movement is poorly named -ignoring functions such as testing, product management, information security.
 
 The original intent in DevOps movement was -in part- to bring together developers and operations teams to create win-win solutions in the pursuit of system-level goals, rather than throwing work over the wall pointing fingers when things went wrong.
