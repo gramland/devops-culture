@@ -29,15 +29,16 @@ How often does an organization deploy code to production or release it to end us
 
 ### SOFTWARE DEPLOYMENT
 
-### Change fail rate
-
 ### Time to restore
 
+How long does it generally take to restore service when a service incident or a defect that impacts users occurs (e.g., unplanned outage or service impairment)
 
+### Change fail rate
+
+For the primary application or service you work on, what percentage of changes to production or released to users result in degraded service (e.g., lead to service impairment or service outage) and subsequently require remediation (e.g., require a hotfix, rollback,
+fix forward, patch)?
 
 ## High performers vs low performes
-
-
 
 #### When compared to low performers the high performers have (2018): 
   - 46 times more frequent code of deployments 
@@ -53,21 +54,3 @@ How often does an organization deploy code to production or release it to end us
   
 Source: [state-of-devops-2019](https://github.com/gramland/devops-culture/blob/master/accelerate/pdfs/state-of-devops-2019.pdf)
 
-## Donts
-
-## Measuring productivity
-
-Productivity is the ability to get complex, time-consuming tasks completed with minimal distractions and interruptions.
-
-Measuring productivity in terms of line of code has a long history in software. If you are still doing it stop now (really).
-Some companies even require developers to record the lines of code committed per week.
-However in reality we would prefer a 10 line solution to a 1000 line solution to a problem.
-
-Rewarding developers for writing lines of code leads to bloated software that incurs in higher maintenance cost and 
-higher cost of change. Ideally we should reward developers for solving business problems with a minimum amount of code and it's even
-better if we can solve the problem without writing code at all or deleting code or perhaps by a business process change.
-
-Other metrics are often just a way to shift or mask the same problem. 
-Measuring quantities that are not statistically correlated with team and organizational perfomance.
-Productivity cannot be captured with a simple metric such as lines of code, story points, or bugs closed; doing so results in unintended consequences that sacrifice the overall goals of the team. 
-For example, teams may refuse to help others because it would negatively impact their velocity, even if their help is important to achieve organizational goals.
