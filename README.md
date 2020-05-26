@@ -1,7 +1,7 @@
 # DevOps Culture
 Notes and resources about Lean and DevOps 
 
-  * [State of DevOps Report notes](accelerate/)
+  * [Accelerate - State of DevOps Report notes](accelerate/)
   * [State of DevOps 2019](accelerate/pdfs/state-of-devops-2019.pdf)
   * [Key Capabilities - Google-DORA](https://cloud.google.com/devops)
   * [The Rugged Manifesto](https://ruggedsoftware.org/)
