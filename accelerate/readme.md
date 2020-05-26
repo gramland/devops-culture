@@ -1,10 +1,10 @@
 # High performing technology organization capabilities
 
 
-The State of DevOps Report identify 24 key capabilities divided into 5 groups that drive software delivery [performance](https://github.com/gramland/devops-culture/blob/master/accelerate/performance.md) in a statistically significant way.
+The State of DevOps Report identify 24 key capabilities divided into 5 groups that drive software delivery [performance](performance.md) in a statistically significant way.
 
 
-## [Continous delivery](https://github.com/gramland/devops-culture/blob/master/accelerate/Continuous%20delivery/readme.md)
+## [Continous delivery](Continuous%20delivery/readme.md)
 * Version control
 * Deployment automation
 * Continuos integration
@@ -15,19 +15,19 @@ The State of DevOps Report identify 24 key capabilities divided into 5 groups th
 * Continuos delivery
 
 
-## [Architecture](https://github.com/gramland/devops-culture/tree/master/accelerate/Architecture)
+## [Architecture](Architecture)
 * Loosely coupled architecture
 * Empowered teams
 
 
-## [Product and process](https://github.com/gramland/devops-culture/tree/master/accelerate/Product%20and%20process)
+## [Product and process](Product%20and%20process)
 * Customer feedback
 * Value stream
 * Working in small batches
 * Team experimentation
 
 
-## [Lean management and monitoring](https://github.com/gramland/devops-culture/tree/master/accelerate/Lean%20management%20and%20monitoring)
+## [Lean management and monitoring](Lean%20management%20and%20monitoring)
 * Change approval process
 * Monitoring 
 * Proactive Notification 
@@ -35,7 +35,7 @@ The State of DevOps Report identify 24 key capabilities divided into 5 groups th
 * Visualizing work 
 
 
-## [Cultural](https://github.com/gramland/devops-culture/tree/master/accelerate/Cultural)
+## [Cultural](Cultural)
 * Westrum organizational culture
 * Support learning
 * Collaboration among teams
