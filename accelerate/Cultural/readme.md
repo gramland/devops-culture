@@ -1,6 +1,6 @@
 # Cultural capabilities
 
-* Support a generative culture as outlined by Westrum
+* [Support a generative culture as outlined by Westrum](Westrum-organizational-culture.md)
 * Encourage and support learning
 * Support and facilitate collaboration among teams
 * Provide resources and tools that make work meaningful
@@ -25,6 +25,3 @@ Organizational culture can exist at 3 levels in organizations:
 can be discussed and even debated by those who are aware of them. 
   - The 3rd level of organizational culture is the most visible and can be observed in artifacts. These artifacts can include written mission statements or creeds, technology, formal procedures or even heros and rituals. 
 
-See [Westrum organizational culture](Westrum-organizational-culture.md)
-
-See [How to measure organizational culture](how-to-measure-organizational-culture.md)
