@@ -45,7 +45,10 @@ See [How to measure organizational culture](how-to-measure-organizational-cultur
 
 Similar to Dr. Westrum's findings, DORA research shows that a high-trust, generative culture predicts software delivery and organizational performance in technology.
 
-## How to implement organizational culture
+![Image What does Westrum Organizational Culture predict](../../images/What%20does%20Westrum%20Organizational%20Culture%20predict.png)
+
+
+# How to implement organizational culture
 
 DORA research shows that changing the way people work changes culture; this is echoed in the work of John Shook, who spoke of his experiences in transforming culture: **"The way to change culture is not to first change how people think, but instead to start by changing how people behave—what they do."** 
 
