@@ -1,7 +1,7 @@
 # High performing technology organization capabilities
 
 
-The State of DevOps Report identify 24 key capabilities divided into 5 groups that drive software delivery performance in a statistically significant way.
+The State of DevOps Report identify 24 key capabilities divided into 5 groups that drive software delivery [performance](performance.md) in a statistically significant way.
 
 
 ## [Continous delivery](Continuous%20delivery/)
