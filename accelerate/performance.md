@@ -8,13 +8,18 @@ and the operations put in place painful change management process as a way to in
   
   2. Measure should focus on outcomes not output. 
     It shouldn't reward people for putting in large amounts of busy work that doesn't actually help achieving organizational goal. 
+    
+  ![Performance drivers](../images/performance_drivers.png) 
+    
 
 ## 4 PERFORMANCE METRICS
 
-![Performance metrics](../images/performance_metrics.png)
-
 The first four metrics that capture the effectiveness of the development and delivery process can be summarized in terms of throughput and stability. The study measure the throughput of the software delivery process using __lead time__ of code changes from check-in
 to release along with __deployment frequency__. Stability is measured using __time to restore__— the time it takes from detecting a user- impacting incident to having it remediated— and __change fail rate__, a measure of the quality of the release process.
+
+
+  ![Performance metrics](../images/performance_metrics.png)
+
 
 ### SOFTWARE DEVELOPMENT
 
