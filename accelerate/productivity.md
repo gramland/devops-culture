@@ -1,6 +1,8 @@
-## Measuring productivity (don't)
+## Measuring productivity
 
 Productivity is the ability to get complex, time-consuming tasks completed with minimal distractions and interruptions.
+
+  ![Productivity drivers](../images/productivity_drivers.png) 
 
 Measuring productivity in terms of line of code has a long history in software. If you are still doing it __stop now__ (really).
 Some companies even require developers to record the lines of code committed per week.
